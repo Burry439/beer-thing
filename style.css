@@ -2,6 +2,6 @@ form {
   margin-top: 30px;
 }
 
-.user-post, .user-review {
+.user-post, .user-review,{
   font-weight: bold;
 }
