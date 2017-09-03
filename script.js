@@ -55,7 +55,7 @@ function sortBeer() {
     edit : edit,
     sortBeer : sortBeer
   }
-  
+    
 
 }
 //click handelers
